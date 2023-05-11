@@ -55,7 +55,7 @@ To conclude, we recommend the following criteria for Microsoft's new movie ventu
    
 ## Further Analysis
 
-Additional insights on Microsofts new movie studio:
+Potential opportunitues for further analysis:
    * Obtain a database with more actors/actresses and their ratings across various castings. 
    * Look into the profitability of an actor/actress and how well they perform based on the director or writer they are working with.
    * View ROI based on a director and their works.  
