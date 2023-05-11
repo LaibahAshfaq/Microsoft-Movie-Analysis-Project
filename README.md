@@ -11,6 +11,14 @@ This project analyzes box office trends for Microsoft, who have decided to creat
 
 We have also given recommendations as to which genres have the highest Return On Investment (ROI) and which release months are most likely to generate a higher ROI. Microsoft can use this report to determine main genre based on ROI, sub-genre based on popularity and voter rating, release month, and casting of actors/actresses for their upcoming movie projects. 
 
+## Repository Contents
+- README.md: 
+- Data Folder:
+- Visualizations Folder:
+- .gitignore:
+- Final_Notebook.ipynb:
+- Presentation Slides:
+
 
 ## Business Understanding
 
