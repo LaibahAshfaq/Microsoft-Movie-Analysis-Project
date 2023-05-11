@@ -7,6 +7,14 @@ Authors: Laibah Ashfaq , Kelly Jara, Bianna Gas
 
 This project analyzes box office trends for Microsoft, who have decided to create a new movie studio. The goal was to explore what types of films have been excelling at the box office and to deliver our actionable insights to Microsoft's new movie studio executives. Our exploratory data analysis of the movie industry shows how genres and actors affect the popularity and rating of a movie. We have also explored the Return On Investments based on genres and when the movie was released within the film industry. 
 
+## Repository Contents
+- README.md: 
+- Data Folder:
+- Visualizations Folder:
+- .gitignore:
+- Final_Notebook.ipynb:
+- Presentation Slides:
+
 
 ## Business Understanding
 
