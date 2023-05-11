@@ -1,7 +1,8 @@
 # Microsoft Movie Analysis Project
 
-Authors: Laibah Ashfaq , Kelly Jara, Bianna Gas 
+![Film Studio Photo](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/4545089c-0e3a-46ee-a745-d9dcc629a9d8)
 
+Authors: Laibah Ashfaq , Kelly Jara, Bianna Gas 
 
 ## Overview
 
@@ -33,17 +34,32 @@ We utilized four different data sources for our analysis to obtain a better unde
    * The Numbers
    * Rotten Tomatoes
 
+The movie genres with the highest return on investment were Horror, Mystery, and Thriller.
+
+![Mean ROI Per Movie Genre](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/7d969c47-3e18-445c-925c-95b3dbf62a6b)
+
+The movie genres with the lowest production budgets were Music, Documentary, and Horror.
+
+![Mean Production Budget Per Movie genre](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/f0cce73e-6f39-4a3b-8b10-f58142caad94)
+
+
 The most popular movie genres are Adventure, Action and Fantasy.
+
+![Average Popularity of Movie Genres](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/fffe04cd-bdd2-491b-b3cf-e2698adcea45)
 
 The highest audience rated movie genres are Music, Documentary, and History.
 
+![Average Rating of Movie Genres](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/0ee665a6-88df-4704-9fb8-3f8052873446)
 
-The movie genres with the highest return on investment were Horror, Mystery, and Thriller.
+The most popular movies in the Adventure genre are released in November, while in the Action genre they are released in July.
 
-
-The best time to release a movie for the highest ROI is October.
+![Average popularity of movie by release month](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/ebe57708-84a0-4683-b831-3f8498c24a6b)
 
 The best actors/actresses should be cast based on their consistant average rating between the popular genres. 
+
+![Avg Rating for Actors in Action Movies](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/9b441a42-40f7-4b99-b86a-632cb31a6b82)
+![Avg Rating for Actors in Adventure Movies](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/15296416-a989-4726-a942-5a3cef6df396)
+![Avg Rating for Actors in Horror Movies](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/8ea5bcb1-e2a0-4cc4-b376-7b19170f2c6b)
 
 ## Conclusion
 
