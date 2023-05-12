@@ -45,7 +45,8 @@ The movie genres with the lowest production budgets were Music, Documentary, and
 
 The most popular movie genres are Adventure, Action and Fantasy.
 
-![Average Popularity of Movie Genres](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/fffe04cd-bdd2-491b-b3cf-e2698adcea45)
+![Average Popularity of Movie Genres](https://github.com/LeebeeNYC/Phase-1-Project/assets/128645674/0511ac80-4bf0-4f41-92d5-538d3139a998)
+
 
 The highest audience rated movie genres are Music, Documentary, and History.
 
