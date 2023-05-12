@@ -9,12 +9,12 @@ Authors: Laibah Ashfaq , Kelly Jara, Bianna Gas
 This project analyzes box office trends for Microsoft, who have decided to create a new movie studio. The goal was to explore what types of films have been excelling at the box office and to deliver our actionable insights to Microsoft's new movie studio executives. Our exploratory data analysis of the movie industry shows how genres and actors affect the popularity and rating of a movie. We have also explored the Return On Investments based on genres and when the movie was released within the film industry. 
 
 ## Repository Contents
-- README.md: 
-- Data Folder:
-- Visualizations Folder:
-- .gitignore:
-- Final_Notebook.ipynb:
-- Presentation Slides:
+- README.md
+- Data Folder
+- Visualizations Folder
+- .gitignore
+- Final_Notebook.ipynb
+- Presentation Slides
 
 
 ## Business Understanding
@@ -63,11 +63,15 @@ The best actors/actresses should be cast based on their consistant average ratin
 
 ## Conclusion
 
-To conclude, we recommend the following criteria for Microsoft's new movie venture.
-   * Main genre should be Horror
-   * Sub-genre should be Adventure, Action or Fantasy.
-   * The movie should be released in October.
-   * The actors cast in the movie should be Mark Strong and Anya Taylor Joy. 
+To conclude, To conclude, we recommended either a low risk approach with horror movies or a high risk approach with action/adventure films.
+
+  * Low Risk - The benefit of the low risk approach is the high ROI and low cost of production although Horror is considered less popular with 
+    consumers. If Microsoft decided to move forward with this approach, we recommend for the movie to be released in February featuring popular 
+    horror actress Anya Taylor-Joy.
+  * High Risk - Going with an Action/Adventure film is beneficial because it is the most popular genre amongst consumers and normally has a high  
+    budget for advertisement which is likely to draw in a larger audience but needs to earn a significant amount to maintain a reasonable ROI. 
+    Based on this recommendation, if Microsoft wishes to proceed with this route, we suggest the movie to be released in November featuring popular 
+    action/adventure actor Mark Strong.
    
 ## Further Analysis
 
