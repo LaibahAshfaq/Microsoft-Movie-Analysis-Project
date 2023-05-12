@@ -63,7 +63,7 @@ The best actors/actresses should be cast based on their consistant average ratin
 
 ## Conclusion
 
-To conclude, To conclude, we recommended either a low risk approach with horror movies or a high risk approach with action/adventure films.
+To conclude, we recommended either a low risk approach with horror movies or a high risk approach with action/adventure films.
 
   * Low Risk - The benefit of the low risk approach is the high ROI and low cost of production although Horror is considered less popular with 
     consumers. If Microsoft decided to move forward with this approach, we recommend for the movie to be released in February featuring popular 
