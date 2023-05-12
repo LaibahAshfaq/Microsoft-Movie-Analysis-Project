@@ -9,12 +9,12 @@ Authors: Laibah Ashfaq , Kelly Jara, Bianna Gas
 This project analyzes box office trends for Microsoft, who have decided to create a new movie studio. The goal was to explore what types of films have been excelling at the box office and to deliver our actionable insights to Microsoft's new movie studio executives. Our exploratory data analysis of the movie industry shows how genres and actors affect the popularity and rating of a movie. We have also explored the Return On Investments based on genres and when the movie was released within the film industry. 
 
 ## Repository Contents
-- README.md
-- Data Folder
-- Visualizations Folder
-- .gitignore
-- Final_Notebook.ipynb
-- Presentation Slides
+- README.md - includes the summary of our Data Analysis and Presentation
+- Data Folder - includes all datasets that we looked at, including the ones our analysis is based on
+- Visualizations Folder - includes all visualizations we made, including preliminary rough ones.
+- .gitignore - ignores large files
+- Final_Notebook.ipynb - our final notebook which includes all the python code to be able to reproduce our data analysis
+- Presentation Slides - our final presentation slides
 
 
 ## Business Understanding
@@ -47,14 +47,13 @@ The most popular movie genres are Adventure, Action and Fantasy.
 
 ![Average Popularity of Movie Genres](https://github.com/LeebeeNYC/Phase-1-Project/assets/128645674/0511ac80-4bf0-4f41-92d5-538d3139a998)
 
+The most popular movies in the Adventure genre are released in November, Action genre are released in May and July and Fantasy genre are released in December.
 
-The highest audience rated movie genres are Music, Documentary, and History.
+![Average popularity of movie by release month copy](https://github.com/LeebeeNYC/Phase-1-Project/assets/128645674/92f32b7e-1f76-421d-a504-63d9cb5b3828)
 
-![Average Rating of Movie Genres](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/0ee665a6-88df-4704-9fb8-3f8052873446)
+The movie with the highest ROI is Horror and should be released in February.
+![Average popularity of movie by release month copy 2](https://github.com/LeebeeNYC/Phase-1-Project/assets/128645674/174d2f2a-0dfe-4520-979b-8577b4dfa1d2)
 
-The most popular movies in the Adventure genre are released in November, while in the Action genre they are released in July.
-
-![Average popularity of movie by release month](https://github.com/LeebeeNYC/Phase-1-Project/assets/131709766/ebe57708-84a0-4683-b831-3f8498c24a6b)
 
 The best actors/actresses should be cast based on their consistant average rating between the popular genres. 
 
